@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="youtubeImg">
+    <file>CDELOOPER.png</file>
+  </qresource>
+</RCC>
